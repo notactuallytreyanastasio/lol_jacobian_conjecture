@@ -77,21 +77,6 @@ lean src/EngineControls.lean     # engine sanity controls
 Each file drives its checks with `#eval`; the printed output *is* the
 verification.
 
-## The honest verdict
-
-Beautiful, self-consistent, independently reproduced arithmetic — and a
-conclusion that is almost certainly a framing error, most likely AI-generated.
-The responsible next step is **not** a preprint. It is:
-
-1. A literature search for this exact map (it is far too clean to be novel).
-2. Sending these files to a specialist in affine algebraic geometry to locate the
-   catch in minutes.
-3. Tracing the source. If it has no citable, refereed provenance, that is the
-   answer.
-
-If eleven people and four computer-algebra systems can't find the flaw, that
-tells you who to ask — not that the flaw isn't there.
-
 ## License
 
 MIT. It's a joke repo about a serious conjecture. Do what you like.
