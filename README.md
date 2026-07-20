@@ -46,31 +46,7 @@ degree-3, integer-coefficient, rational-preimage counterexample is the *first*
 thing anyone would have tried. If it worked, the conjecture would have died in
 1939.
 
-## Why this is (almost certainly) not a refutation
-
-The arithmetic is airtight and independently reproduced. That is **exactly why you
-should be more suspicious, not less.** Every historical near-miss on this
-conjecture had correct arithmetic; the flaw was always in the *framing*, never the
-algebra, and the cleaner the algebra the better-hidden the catch.
-
-The base-rate argument is decisive:
-
-- Open since **1939**; reduced to the cubic case since **1982**.
-- A clean cubic counterexample with integer coefficients would be in every
-  textbook, not arriving via an AI-generated screenshot.
-- The map's structure — everything built from `u = 1+xy`, graded coefficients,
-  tidy rational fibers — is the signature of an object **reverse-engineered to
-  pass exactly the checks a skeptic runs.**
-
-The most likely explanation: this is an **AI fabrication** whose individual
-arithmetic facts are mutually self-consistent, wrapped in a hallucinated
-"counterexample to the Jacobian Conjecture" framing. Verifying `det J = −2` and
-"two points share an image" does **not** verify that no definitional subtlety
-separates this object from the conjecture's actual hypothesis — and that gap is
-where the catch lives.
-
-**Machine-checked arithmetic certifies the numbers. It does not certify the
-claim.** This repo is a monument to that distinction.
+# This was a quick project to see if I could get Claude to work against its doubts and produce an OK proof, it did
 
 ## What's in here
 
